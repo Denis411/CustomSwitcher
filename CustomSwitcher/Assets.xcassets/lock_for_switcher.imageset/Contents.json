@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lock_for_switcher.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
